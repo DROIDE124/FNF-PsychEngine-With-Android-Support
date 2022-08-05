@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Knux.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KnuxDown0000" x="0" y="0" width="460" height="489" frameX="-4" frameY="-9" frameWidth="452" frameHeight="493"/>
+
+	<SubTexture name="KnuxIdle0000" x="1087" y="0" width="526" height="589" frameX="0" frameY="-13" frameWidth="541" frameHeight="620"/>
+
+	<SubTexture name="KnuxLeft0000" x="460" y="0" width="627" height="561" frameX="-8" frameY="0" frameWidth="632" frameHeight="555"/>
+
+	<SubTexture name="KnuxRight0000" x="0" y="561" width="558" height="604" frameX="-2" frameY="0" frameWidth="584" frameHeight="599"/>
+
+	<SubTexture name="KnuxUp0000" x="558" y="561" width="489" height="668" frameX="0" frameY="0" frameWidth="500" frameHeight="673"/>
+
+</TextureAtlas>

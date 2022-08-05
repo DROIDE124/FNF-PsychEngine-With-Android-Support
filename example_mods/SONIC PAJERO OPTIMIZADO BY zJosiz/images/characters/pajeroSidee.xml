@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pajeroSide.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonicdown0000" x="0" y="0" width="566" height="528"/>
+
+	<SubTexture name="sonicdownmiss0000" x="0" y="0" width="566" height="528" frameX="0" frameY="-25" frameWidth="496" frameHeight="516"/>
+
+	<SubTexture name="sonicidle0000" x="566" y="0" width="501" height="556"/>
+
+	<SubTexture name="sonicleft0000" x="0" y="556" width="538" height="571"/>
+
+	<SubTexture name="sonicleftmiss0000" x="0" y="556" width="538" height="571" frameX="0" frameY="0" frameWidth="561" frameHeight="572"/>
+
+	<SubTexture name="sonicright0000" x="538" y="556" width="519" height="549"/>
+
+	<SubTexture name="sonicrightmiss0000" x="538" y="556" width="519" height="549" frameX="-43" frameY="0" frameWidth="554" frameHeight="540"/>
+
+	<SubTexture name="sonicup0000" x="1067" y="0" width="494" height="600"/>
+
+	<SubTexture name="sonicupmiss0000" x="1067" y="0" width="494" height="600" frameX="-10" frameY="0" frameWidth="487" frameHeight="634"/>
+
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tails.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="550" height="572"/>
+
+	<SubTexture name="idle0000" x="1191" y="0" width="556" height="577"/>
+
+	<SubTexture name="left0000" x="550" y="0" width="641" height="596"/>
+
+	<SubTexture name="right0000" x="0" y="596" width="602" height="579"/>
+
+	<SubTexture name="up0000" x="602" y="596" width="567" height="643"/>
+
+</TextureAtlas>

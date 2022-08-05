@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pajero.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PajonDMiss0000" x="0" y="0" width="761" height="741"/>
+
+	<SubTexture name="PajonDown0000" x="0" y="0" width="761" height="741"/>
+
+	<SubTexture name="PajonLMiss0000" x="0" y="787" width="890" height="766"/>
+
+	<SubTexture name="PajonLeft0000" x="0" y="787" width="890" height="766"/>
+
+	<SubTexture name="PajonMuertoLoop0000" x="1594" y="882" width="776" height="800"/>
+
+	<SubTexture name="PajonMuertolol0001" x="3" y="889" width="992" height="883"/>
+
+	<SubTexture name="PajonRMiss0000" x="890" y="787" width="704" height="863"/>
+
+	<SubTexture name="PajonRight0000" x="890" y="787" width="704" height="863"/>
+
+	<SubTexture name="PajonUMiss0000" x="1594" y="0" width="738" height="882"/>
+
+	<SubTexture name="PajonUp0000" x="1594" y="0" width="738" height="882"/>
+
+	<SubTexture name="PajonicIdle0000" x="761" y="0" width="757" height="787"/>
+
+</TextureAtlas>
